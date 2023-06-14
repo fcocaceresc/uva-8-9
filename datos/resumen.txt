@@ -1,0 +1,4 @@
+Reactive non-metals: 8
+C, H, N, O, P, Cl, S, F
+Alkali metals: 1
+Na
